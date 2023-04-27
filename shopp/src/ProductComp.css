@@ -1,0 +1,26 @@
+ @media (min-width :400px) and (max-width :650px) {
+     .Card {
+         color: rgb(16, 16, 13);
+     }
+ }
+ 
+ .Card {
+     width: 15rem;
+     height: 28rem;
+     display: inline-table;
+     flex-wrap: wrap;
+     justify-content: space-around;
+     top: 9rem;
+     margin: 1rem 1rem 1rem 4.5rem;
+     color: black;
+ }
+ 
+ .Img {
+     width: 200px;
+     height: 200px;
+ }
+ 
+ LINK {
+     text-decoration: none;
+     color: black;
+ }

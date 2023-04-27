@@ -1,0 +1,8 @@
+.hlo {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    right: 1rem;
+    top: 13rem;
+    cursor: pointer;
+}
